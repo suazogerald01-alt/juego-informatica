@@ -1,0 +1,6 @@
+{
+  "name": "Aventura del Duende: Bosque Mágico",
+  "description": "Juego de plataformas retro pixel art en un bosque místico. Controla al duende con gravedad fluida, esquiva criaturas y llega al portal sagrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
